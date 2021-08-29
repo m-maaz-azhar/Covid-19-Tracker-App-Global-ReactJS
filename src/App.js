@@ -17,7 +17,7 @@ function App() {
     <div className={styles.App}>
       <header className={styles.AppHeader}>
         <div>
-          <h3>COVID 19 TRACKER</h3>
+          <h2>COVID 19 TRACKER</h2>
         </div>
         <Suspense
           fallback={
@@ -48,11 +48,14 @@ function App() {
           <Suspense fallback={<Loader />}>
             <Chart resource={resource} country={currentCountry} />
           </Suspense>
+          <br/>
+          <hr/>
+          <br/>
         </Grid>
         <Grid
           item
-          xs={12}
-          sm={12}
+          xs={10}
+          sm={10}
           md={4}
           lg={4}
           className={styles.CardsContainer}

@@ -8,9 +8,7 @@
   min-height: 100vh;
   font-family: "Roboto", sans-serif;
 }
-.AppHeader {
-  margin-bottom: 50px;
-}
+
 .AppHeader {
   display: flex;
   flex-flow: row wrap;
@@ -19,4 +17,6 @@
   background-color: #2ed573;
   min-height: 50px;
   color: white;
+  margin-bottom: 50px;
+  padding: 10px;
 }
