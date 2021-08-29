@@ -4,4 +4,4 @@
 ---
 
 ## SCREENSHOT
-![Screenshot Image](https://user-images.githubusercontent.com/40918394/131247679-fba5b661-dbac-4db5-abf8-dd7b3cf24731.png)
+![Screenshot](https://user-images.githubusercontent.com/40918394/131247798-2b80e760-0791-4826-ba28-6ddae418b7e5.png)
