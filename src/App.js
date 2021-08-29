@@ -17,7 +17,7 @@ function App() {
     <div className={styles.App}>
       <header className={styles.AppHeader}>
         <div>
-          <h2>COVID 19 TRACKER</h2>
+          <h2>COVID-19 TRACKER</h2>
         </div>
         <Suspense
           fallback={
