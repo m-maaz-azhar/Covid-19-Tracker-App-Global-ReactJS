@@ -61,7 +61,7 @@ function Cards({ resource }) {
               {new Date(data.lastUpdate).toDateString()}
             </Typography>
             <Typography variant="body2">
-              No of Recoveries from of Covid-19
+              No of Recoveries from Covid-19
             </Typography>
           </CardContent>
         </Grid>
