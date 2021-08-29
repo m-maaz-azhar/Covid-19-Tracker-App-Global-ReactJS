@@ -57,7 +57,7 @@ function App() {
           lg={4}
           className={styles.CardsContainer}
         >
-          <Suspense fallback={<>...</>}>
+          <Suspense fallback={<Loader/>}>
             <Cards resource={resource} />
           </Suspense>
         </Grid>
